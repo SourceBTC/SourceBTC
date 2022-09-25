@@ -1,0 +1,3 @@
+Action examples: octo-org/octo-repo@*, octo-org/octo-repo@v2
+Reusable workflow examples: octo-org/octo-repo/.github/workflows/build.yml@main
+Entire organisation or repository examples: octo-org/*, octo-org/octo-repo/*
