@@ -1,0 +1,106 @@
+t/manifest.t
+t/pod-coverage.t
+t/pod.t
+t/lib/CheckItaTrans.pm
+use Test::More tests => 11;
+use Lingua::IT::Ita2heb;
+use charnames ':full';
+use English '-no_match_vars';
+use open ':encoding(utf8)';
+
+our $VERSION = '0.01';
+use lib './t/lib';
+use CheckItaTrans qw(start_log check_ita_tr);
+
+my $log_filename = __FILE__ . '.log';
+open my $log, '>', $log_filename    ## no critic InputOutput::RequireBriefOpen
+    or croak("Couldn't open $log_filename for writing: $OS_ERROR");
+start_log(__FILE__);
+
+say {$log} 'aba ' . Lingua::IT::Ita2heb::ita_to_heb('aba');
+ok(
+    Lingua::IT::Ita2heb::ita_to_heb('aba') eq "\N{HEBREW LETTER ALEF}"
+check_ita_tr(
+    'aba',
+        "\N{HEBREW LETTER ALEF}"
+        . "\N{HEBREW POINT QAMATS}"
+        . "\N{HEBREW LETTER BET}"
+        . "\N{HEBREW POINT DAGESH OR MAPIQ}"
+<doge\>4.5.555.3.54.56.08.480.
+@@ -7,18 +7,15 @@ use warnings;
+use Test::More tests => 11;
+use Lingua::IT::Ita2heb;
+use charnames ':full';
+use English '-no_match_vars';
+use open ':encoding(utf8)';
+
+our $VERSION = '0.01';
+use lib './t/lib';
+use CheckItaTrans qw(start_log check_ita_tr);
+
+my $log_filename = __FILE__ . '.log';
+open my $log, '>', $log_filename    ## no critic InputOutput::RequireBriefOpen
+    or croak("Couldn't open $log_filename for writing: $OS_ERROR");
+start_log(__FILE__);
+
+say {$log} 'aba ' . Lingua::IT::Ita2heb::ita_to_heb('aba');
+ok(
+    Lingua::IT::Ita2heb::ita_to_heb('aba') eq "\N{HEBREW LETTER ALEF}"
+check_ita_tr(
+    'aba',
+        "\N{HEBREW LETTER ALEF}"
+        . "\N{HEBREW POINT QAMATS}"
+        . "\N{HEBREW LETTER BET}"
+        . "\N{HEBREW POINT DAGESH OR MAPIQ}"
+@@ -27,66 +24,64 @@ ok(
+    'aba'
+);
+
+say {$log} 'abba ' . Lingua::IT::Ita2heb::ita_to_heb('abba');
+ok(
+    Lingua::IT::Ita2heb::ita_to_heb('abba') eq "\N{HEBREW LETTER ALEF}"
+check_ita_tr(
+    'abba',
+        ("\N{HEBREW LETTER ALEF}"
+        . "\N{HEBREW POINT PATAH}"
+        . "\N{HEBREW LETTER BET}"
+        . "\N{HEBREW POINT DAGESH OR MAPIQ}"
+        . "\N{HEBREW POINT QAMATS}"
+        . "\N{HEBREW LETTER HE}",
+    'abba'
+        . "\N{HEBREW LETTER HE}"
+    ),
+    'abba',
+);
+
+say {$log} 'abba, disable dagesh '
+    . Lingua::IT::Ita2heb::ita_to_heb('aba', disable_dagesh => 1);
+ok(
+    Lingua::IT::Ita2heb::ita_to_heb('abba', disable_dagesh => 1) eq
+check_ita_tr(
+    ['abba', disable_dagesh => 1],
+    (
+        "\N{HEBREW LETTER ALEF}"
+        . "\N{HEBREW POINT PATAH}"
+        . "\N{HEBREW LETTER BET}"
+        . "\N{HEBREW POINT DAGESH OR MAPIQ}"
+        . "\N{HEBREW POINT QAMATS}"
+        . "\N{HEBREW LETTER HE}",
+        . "\N{HEBREW LETTER HE}"
+    ),
+    'abba, disable dagesh'
+);
+
+say {$log} 'ama ' . Lingua::IT::Ita2heb::ita_to_heb('ama');
+ok(
+    Lingua::IT::Ita2heb::ita_to_heb('ama') eq "\N{HEBREW LETTER ALEF}"
+check_ita_tr(
+    'ama',
+        "\N{HEBREW LETTER ALEF}"
+        . "\N{HEBREW POINT QAMATS}"
+        . "\N{HEBREW LETTER MEM}"
+        . "\N{HEBREW POINT QAMATS}"
+        . "\N{HEBREW LETTER HE}",
+    'ama'
+    'ama',
+);
