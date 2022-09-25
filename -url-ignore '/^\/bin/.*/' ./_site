@@ -1,0 +1,1 @@
+-url-ignore '/^\/bin/.*/' ./_site
