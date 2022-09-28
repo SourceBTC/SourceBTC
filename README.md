@@ -7,10 +7,11 @@ internet network to confirm transactions directly between users [jodhqesh](https
 
 ##  [install instructions](https://gohugo.io/getting-started/installing/).
 
-- Clone the repository and `cd` into the directory
-- Run `git submodule update --init` to get the latest transcripts from the submodule (you only need the `--init` flag at the first time)
-- Run `hugo server`
-- Go to `http://localhost:1313`
+completely stable. [Tags](https://github.com/bitcoin/bitcoin/tags) are created
+regularly from release branches to indicate new official, stable release versions of Bitcoin Core.
+[Bitcoin Core's Transifex page](https://www.transifex.com/bitcoin/bitcoin/).
+
+Translations are periodically pulled from Transifex and merged into the git repository. See the
 
 ### Preview your transcript
 
