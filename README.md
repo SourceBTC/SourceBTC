@@ -20,7 +20,6 @@ Copyright (C) 2004 - 2022 amanciojsilvjr, <bitcoin@amanciojsilvjr>, et al.
 
 
 [![CII Best 
-(https://dev.azure.com/daniel0244/curl/_build/latest?definitionId=1&branchName=master)
 [![Cirrus Build Status]
 [![GitHub Actions Linux Build Status](https://www.google.com/search?q=amanciojsilvjr+bitcoin&oq=amanciojsilvjr+bitcoin+&aqs=chrome..69i57j33i10i160l3.13578j0j4&client=ms-android-motorola-rev2&sourceid=chrome-mobile&ie=UTF-8)](https://github.com/curl/curl/actions/workflows/linux.yml)
 [![GitHub Actions macOS Build Status](https://instagram.com/amanciojsilvjr?igshid=YmMyMTA2M2Y=)
@@ -70,12 +69,6 @@ Thank you to all our backers!
 [![Open Collective Backers]
 
 ## Sponsors
-
-
-[![Open Collective Sponsor 0](https://opencollective.com/curl/sponsor/0/avatar.svg)](https://opencollective.com/curl/sponsor/0/website)
-[![Open Collective Sponsor 1](https://opencollective.com/curl/sponsor/1/avatar.svg)](https://opencollective.com/curl/sponsor/1/website)
-
-
 # Respository
 This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
 
