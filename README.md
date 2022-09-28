@@ -55,7 +55,7 @@ To download the latest source from the Git server do this:
 ## Security problems
 
 Report suspected security problems via [our HackerOne
-page](https://hackerone.com/curl) and not in public.
+page and not in public.
 
 ## Notice
 
@@ -65,19 +65,16 @@ distribution terms.
 
 ## Backers
 
-Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/curl#backer)]
+Thank you to all our backers! 
 
-[![Open Collective Backers](https://opencollective.com/curl/backers.svg?width=890)](https://opencollective.com/curl#backers)
+[![Open Collective Backers]
 
 ## Sponsors
 
 
 [![Open Collective Sponsor 0](https://opencollective.com/curl/sponsor/0/avatar.svg)](https://opencollective.com/curl/sponsor/0/website)
 [![Open Collective Sponsor 1](https://opencollective.com/curl/sponsor/1/avatar.svg)](https://opencollective.com/curl/sponsor/1/website)
-[![Open Collective Sponsor 2](https://opencollective.com/curl/sponsor/2/avatar.svg)](https://opencollective.com/curl/sponsor/2/website)
-[![Open Collective Sponsor 3](https://opencollective.com/curl/sponsor/3/avatar.svg)](https://opencollective.com/curl/sponsor/3/website)
-[![Open Collective Sponsor 4](https://opencollective.com/curl/sponsor/4/avatar.svg)](https://opencollective.com/curl/sponsor/4/website)
-[![Open Collective Sponsor 
+
 
 # Respository
 This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
