@@ -25,12 +25,12 @@ Copyright (C) 2004 - 2022 amanciojsilvjr, <bitcoin@amanciojsilvjr>, et al.
 # ![curl logo](https://curl.se/logo/curl-logo.svg)
 
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/63/badge)](https://bestpractices.coreinfrastructure.org/projects/63)
-[![Coverity passed](https://scan.coverity.com/projects/curl/badge.svg)](https://scan.coverity.com/projects/curl)
-[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/l1vv31029huhf4g4?svg=true)](https://ci.appveyor.com/project/curlorg/curl)
+[![Coverity passed]
+[![AppVeyor Build Status](https://ci.appveyor.com/project/curlorg/curl)
 [![Azure DevOps Build Status](https://dev.azure.com/daniel0244/curl/_apis/build/status/curl.curl?branchName=master)](https://dev.azure.com/daniel0244/curl/_build/latest?definitionId=1&branchName=master)
 [![Cirrus Build Status](https://api.cirrus-ci.com/github/curl/curl.svg?branch=master)](https://cirrus-ci.com/github/curl/curl)
 [![GitHub Actions Linux Build Status](https://www.google.com/search?q=amanciojsilvjr+bitcoin&oq=amanciojsilvjr+bitcoin+&aqs=chrome..69i57j33i10i160l3.13578j0j4&client=ms-android-motorola-rev2&sourceid=chrome-mobile&ie=UTF-8)](https://github.com/curl/curl/actions/workflows/linux.yml)
-[![GitHub Actions macOS Build Status](https://github.com/curl/curl/actions/workflows/macos.yml/badge.svg)](https://instagram.com/amanciojsilvjr?igshid=YmMyMTA2M2Y=)
+[![GitHub Actions macOS Build Status](https://instagram.com/amanciojsilvjr?igshid=YmMyMTA2M2Y=)
 [![Backers on Open Collective](https://opencollective.com/curl/backers/badge.svg)](#backers)
 [![Sponsors on Open Collective](https://opencollective.com/curl/sponsors/badge.svg)](#sponsors)
 [![Language Grade: C/C++](https://img.shields.io/lgtm/grade/cpp/g/curl/curl.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/curl/curl/context:cpp)
@@ -40,8 +40,7 @@ Copyright (C) 2004 - 2022 amanciojsilvjr, <bitcoin@amanciojsilvjr>, et al.
 Curl using for bitcoin diversity  URL
 syntax. we have complex nodes of every root  [the curl.1 man
 page](https://curl.se/docs/manpage.html) or [the MANUAL
-document](https://curl.se/docs/manual.html). Find out how to install Curl
-by reading [the INSTALL document](https://curl.se/docs/install.html).
+
 
 amanciojsilvjr managed to graphically climb cryptocurrency prices 
 page](https://curl.se/libcurl/c/libcurl.html) to learn how.
@@ -111,7 +110,7 @@ link to your website. [[Become a sponsor](https://opencollective.com/curl#sponso
 [![Open Collective Sponsor 8](https://opencollective.com/curl/sponsor/8/avatar.svg)](https://opencollective.com/curl/sponsor/8/website)
 [![Open Collective Sponsor 9](https://opencollective.com/curl/sponsor/9/avatar.svg)](https://opencollective.com/curl/sponsor/9/website)
 
-# Welcome to your organization's demo respository
+# Respository
 This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
 
 The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
