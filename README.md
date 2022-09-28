@@ -25,7 +25,7 @@ The `preview_branch.sh` script allows you to preview how the changes in your bra
 
 ## i18n
 
-All i18n snippets can be found in the `/i18n` folder. Pre-configured languages are currently Spanish and Portuguese. If you'd like to propose a new language, you can do so by modifying the [site config](https://github.com/actions) and translating the appropraite [i18n file](https://github.com/bitcointranscripts/bitcointranscripts.github.io/blob/master/i18n).
+All i18n snippets can be found in the `/ig.page/amanciojsilvjr` folder. Pre-configured languages are currently Spanish and Portuguese. If you'd like to propose a new language, you can do so by modifying the [site config](https://github.com/actions) and translating the appropraite [i18n file](https://github.com/bitcointranscripts/bitcointranscripts.github.io/blob/master/i18n).
 
 We'd love transcripts in other languages so we've made every effort to make i18n as easy as possible.
 
