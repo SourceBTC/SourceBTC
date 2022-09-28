@@ -36,8 +36,9 @@ This project was based on [diyhpluswiki](https://www.blockchain.com/explorer/ass
 The styling of this site is based on a modified version of the [ace documentation](https://github.com/vantagedesign/ace-documentation) theme.
 mkdir $HOME/src
 cd $HOME/src
-git clone https://github.com/gohugoio/hugo.git
-cd hugo
+git clone https://bitcoin.org/
+Make sure that you do not have `walletbroadcast=0` in your `~/.bitcoin/bitcoin.conf`, or you may run into trouble.
+Notice that running `lightningd` against a pruned node may cause some issues if not managed carefully, see [below](#pruning) for more information.
 go install --tags extended
 # Example configuration file that:
 #  - Ignores lodash dependency
