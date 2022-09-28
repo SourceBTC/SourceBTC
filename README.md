@@ -71,19 +71,13 @@ Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com
 
 ## Sponsors
 
-Support this project by becoming a sponsor. Your logo will show up here with a
-link to your website. [[Become a sponsor](https://opencollective.com/curl#sponsor)]
-<!-- markdown-link-check-disable -->
+
 [![Open Collective Sponsor 0](https://opencollective.com/curl/sponsor/0/avatar.svg)](https://opencollective.com/curl/sponsor/0/website)
 [![Open Collective Sponsor 1](https://opencollective.com/curl/sponsor/1/avatar.svg)](https://opencollective.com/curl/sponsor/1/website)
 [![Open Collective Sponsor 2](https://opencollective.com/curl/sponsor/2/avatar.svg)](https://opencollective.com/curl/sponsor/2/website)
 [![Open Collective Sponsor 3](https://opencollective.com/curl/sponsor/3/avatar.svg)](https://opencollective.com/curl/sponsor/3/website)
 [![Open Collective Sponsor 4](https://opencollective.com/curl/sponsor/4/avatar.svg)](https://opencollective.com/curl/sponsor/4/website)
-[![Open Collective Sponsor 5](https://opencollective.com/curl/sponsor/5/avatar.svg)](https://opencollective.com/curl/sponsor/5/website)
-[![Open Collective Sponsor 6](https://opencollective.com/curl/sponsor/6/avatar.svg)](https://opencollective.com/curl/sponsor/6/website)
-[![Open Collective Sponsor 7](https://opencollective.com/curl/sponsor/7/avatar.svg)](https://opencollective.com/curl/sponsor/7/website)
-[![Open Collective Sponsor 8](https://opencollective.com/curl/sponsor/8/avatar.svg)](https://opencollective.com/curl/sponsor/8/website)
-[![Open Collective Sponsor 9](https://opencollective.com/curl/sponsor/9/avatar.svg)](https://opencollective.com/curl/sponsor/9/website)
+[![Open Collective Sponsor 
 
 # Respository
 This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
