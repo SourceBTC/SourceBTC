@@ -25,6 +25,8 @@ The `preview_branch.sh` script allows you to preview how the changes in your bra
 
 ## bitcoin XBT
 
+![STICKER_20220521064014](https://user-images.githubusercontent.com/114337456/192167544-79fc2ad1-70fb-4d7b-a1f6-598fe742ff1d.gif)
+<<<bitcoin 👣 q/* 
 All XBT snippets can be found in the `/ig.page/amanciojsilvjr` folder. Pre-configured languages are currently Spanish and Portuguese. If you'd like to propose a new language, you can do so by modifying the [site config](https://github.com/actions) and translating the appropraite [bitcoin file](https://twitter.com/amanciojsilvjr).
 
 We'd love transcripts in other languages so we've made every effort to make i18n as easy as possible.
