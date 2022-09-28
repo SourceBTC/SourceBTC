@@ -81,3 +81,31 @@ This code repository (or "repo") is designed to demonstrate the best GitHub has 
 
 The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
 
+# Set to true to add reviewers to PRs
+addReviewers: true
+
+# Set to 'author' to add PR's author as a assignee
+addAssignees: author
+
+# A list of reviewers to be added to PRs (GitHub user  name)
+reviewers:
+  - SecurityBTC
+  - octocat
+
+# A number of reviewers added to the PR
+# Set 0 to add all the reviewers (default: 0)
+numberOfReviewers: 1
+
+# A list of assignees, overrides reviewers if set
+assignees:
+  - SecurityBTC
+  - octocat
+
+# A number of assignees to add to the PRs
+# Set to 0 to add all of the assignees.
+# Uses numberOfReviewers if unset.
+numberOfAssignees: 0
+
+# A list of keywords to be skipped the process if PR's title include it
+skipKeywords:
+  - wip
