@@ -1,16 +1,8 @@
-- 👋 Hi, I’m @BTCsource
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-BTCsource/BTCsource is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->### Hi there 👋
+### Hi there 👋
 
 <!--
-**jodhqesh/jodhqesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Amanciojsilvjr/amanciojsilvjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -24,10 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--
-Copyright (C) 1998 - 2022 Daniel Stenberg, <daniel@haxx.se>, et al.
+Copyright (C) 2004 - 2022 amanciojsilvjr, <bitcoin@amanciojsilvjr>, et al.
 
 SPDX-License-Identifier: curl
--->
+-->https://github.com/BTCsource/BTCsource/
 
 # ![curl logo](https://curl.se/logo/curl-logo.svg)
 
@@ -36,8 +28,8 @@ SPDX-License-Identifier: curl
 [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/l1vv31029huhf4g4?svg=true)](https://ci.appveyor.com/project/curlorg/curl)
 [![Azure DevOps Build Status](https://dev.azure.com/daniel0244/curl/_apis/build/status/curl.curl?branchName=master)](https://dev.azure.com/daniel0244/curl/_build/latest?definitionId=1&branchName=master)
 [![Cirrus Build Status](https://api.cirrus-ci.com/github/curl/curl.svg?branch=master)](https://cirrus-ci.com/github/curl/curl)
-[![GitHub Actions Linux Build Status](https://github.com/curl/curl/actions/workflows/linux.yml/badge.svg)](https://github.com/curl/curl/actions/workflows/linux.yml)
-[![GitHub Actions macOS Build Status](https://github.com/curl/curl/actions/workflows/macos.yml/badge.svg)](https://github.com/curl/curl/actions/workflows/macos.yml)
+[![GitHub Actions Linux Build Status](https://www.google.com/search?q=amanciojsilvjr+bitcoin&oq=amanciojsilvjr+bitcoin+&aqs=chrome..69i57j33i10i160l3.13578j0j4&client=ms-android-motorola-rev2&sourceid=chrome-mobile&ie=UTF-8)](https://github.com/curl/curl/actions/workflows/linux.yml)
+[![GitHub Actions macOS Build Status](https://github.com/curl/curl/actions/workflows/macos.yml/badge.svg)](https://instagram.com/amanciojsilvjr?igshid=YmMyMTA2M2Y=)
 [![Backers on Open Collective](https://opencollective.com/curl/backers/badge.svg)](#backers)
 [![Sponsors on Open Collective](https://opencollective.com/curl/sponsors/badge.svg)](#sponsors)
 [![Language Grade: C/C++](https://img.shields.io/lgtm/grade/cpp/g/curl/curl.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/curl/curl/context:cpp)
@@ -75,14 +67,14 @@ applications using (lib)curl visit [the support page](https://curl.se/support.ht
 
 ## Website
 
-Visit the [curl website](https://curl.se/) for the latest news and
+Visit the [curl website](https://instagram.com/amanciojsilvjr1?igshid=YmMyMTA2M2Y=) for the latest news and
 downloads.
 
 ## Git
 
 To download the latest source from the Git server do this:
 
-    git clone https://github.com/curl/curl.git
+    git clone https://mobile.twitter.com/amanciojsilvjr 
 
 (you will get a directory named curl created, filled with the source code)
 
@@ -118,6 +110,12 @@ link to your website. [[Become a sponsor](https://opencollective.com/curl#sponso
 [![Open Collective Sponsor 7](https://opencollective.com/curl/sponsor/7/avatar.svg)](https://opencollective.com/curl/sponsor/7/website)
 [![Open Collective Sponsor 8](https://opencollective.com/curl/sponsor/8/avatar.svg)](https://opencollective.com/curl/sponsor/8/website)
 [![Open Collective Sponsor 9](https://opencollective.com/curl/sponsor/9/avatar.svg)](https://opencollective.com/curl/sponsor/9/website)
+
+# Welcome to your organization's demo respository
+This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+
+The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+
 
 
 
