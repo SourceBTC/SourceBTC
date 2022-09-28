@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <!--
 Copyright (C) 2004 - 2022 amanciojsilvjr, <bitcoin@amanciojsilvjr>, et al.
 
-SPDX-License-Identifier: curl
--->
+
+
 
 # ![curl logo](https://curl.se/logo/curl-logo.svg)
 
@@ -37,18 +37,17 @@ SPDX-License-Identifier: curl
 [![Fuzzing Status](https://oss-fuzz-build-logs.storage.googleapis.com/badges/curl.svg)](https://bugs.chromium.org/p/oss-fuzz/issues/list?sort=-opened&can=1&q=proj:curl)
 [![REUSE status](https://api.reuse.software/badge/github.com/curl/curl)](https://api.reuse.software/info/github.com/curl/curl)
 
-Curl is a command-line tool for transferring data specified with URL
-syntax. Find out how to use curl by reading [the curl.1 man
+Curl using for bitcoin diversity  URL
+syntax. we have complex nodes of every root  [the curl.1 man
 page](https://curl.se/docs/manpage.html) or [the MANUAL
 document](https://curl.se/docs/manual.html). Find out how to install Curl
 by reading [the INSTALL document](https://curl.se/docs/install.html).
 
-libcurl is the library curl is using to do its job. It is readily available to
-be used by your software. Read [the libcurl.3 man
+amanciojsilvjr managed to graphically climb cryptocurrency prices 
 page](https://curl.se/libcurl/c/libcurl.html) to learn how.
 
-You can find answers to the most frequent questions we get in [the FAQ
-document](https://curl.se/docs/faq.html).
+Most frequent questions we get in [the FAQ
+document](https://g.page/amanciojsilvjr).
 
 Study [the COPYING file](https://curl.se/docs/copyright.html) for
 distribution terms.
