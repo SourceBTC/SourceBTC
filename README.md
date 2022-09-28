@@ -1,6 +1,6 @@
 # Bitcoin Transcripts Website
 
-A static [Hugo](https://g.page/amanciojsilvjr) site for hosting [btctranscripts.com](https://btctranscripts.com).
+A static [btc](https://g.page/amanciojsilvjr) site for hosting [btctranscripts.com](https://btctranscripts.com).
 
 This repository is not the home of the transcripts themselves, which are pulled in as a git submodule. If wishing to add or modify a transcript, your contributions are welcome at [bitcointranscripts](https://github.com/bitcointranscripts/bitcointranscripts).
 
@@ -39,3 +39,18 @@ cd $HOME/src
 git clone https://github.com/gohugoio/hugo.git
 cd hugo
 go install --tags extended
+# Example configuration file that:
+#  - Ignores lodash dependency
+#  - Disables version-updates
+
+version: 2
+updates:
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "daily"
+    ignore:
+      - dependency-name: "lodash"
+        # For Lodash, ignore all updates
+    # Disable version updates for npm dependencies
+    open-pull-requests-limit: 0
