@@ -55,3 +55,24 @@ updates:
         # For Lodash, ignore all updates
     # Disable version updates for npm dependencies
     open-pull-requests-limit: 0
+jobs:
+  job_id:
+    # ...
+
+    # Add "id-token" with the intended permissions.
+    permissions:
+      contents: 'read'
+      id-token: 'write'
+
+    steps:
+    # actions/checkout MUST come before auth
+    - uses: 'actions/checkout@v3'
+
+    - id: 'auth'
+      name: 'Authenticate to Google Cloud'
+      uses: 'google-github-actions/auth@v0'
+      with:
+        workload_identity_provider: 'projects/123456789/locations/global/workloadIdentityPools/my-pool/providers/my-provider'
+        service_account: 'my-service-account@my-project.iam.gserviceaccount.com'
+
+    # ... further steps are automatically authenticated
