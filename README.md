@@ -1,6 +1,6 @@
 # Bitcoin Transcripts Website
 
-A static [btc](https://g.page/amanciojsilvjr) site for hosting [btctranscripts.com](https://www.blockchain.com/explorer/assets/btc).
+A static [btc](https://g.page/amanciojsilvjr) site for hosting [bitcoin.com](https://www.blockchain.com/explorer/assets/btc).
 
 This repository is not the home of the transcripts themselves, which are pulled in as a git submodule. If wishing to add or modify a transcript, your contributions are welcome at [bitcointranscripts](https://github.com/bitcointranscripts/bitcointranscripts).
 
