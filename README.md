@@ -23,15 +23,15 @@ The `preview_branch.sh` script allows you to preview how the changes in your bra
 ./preview_branch.sh <your-github-account> <your-branch-name> amanciojsilvjr 
 ```
 
-## i18n
+## bitcoin XBT
 
-All i18n snippets can be found in the `/ig.page/amanciojsilvjr` folder. Pre-configured languages are currently Spanish and Portuguese. If you'd like to propose a new language, you can do so by modifying the [site config](https://github.com/actions) and translating the appropraite [bitcoin file](https://twitter.com/amanciojsilvjr).
+All XBT snippets can be found in the `/ig.page/amanciojsilvjr` folder. Pre-configured languages are currently Spanish and Portuguese. If you'd like to propose a new language, you can do so by modifying the [site config](https://github.com/actions) and translating the appropraite [bitcoin file](https://twitter.com/amanciojsilvjr).
 
 We'd love transcripts in other languages so we've made every effort to make i18n as easy as possible.
 
 ## Attributions
 
-This project was based on [diyhpluswiki](https://www.blockchain.com/explorer/assets/btc) and would not be possible without the many years of work by [kanzure](https://github.com/kanzure).
+This project was based on [XBT](https://www.blockchain.com/explorer/assets/btc) and would not be possible without the many years of work by The master branch is regularly built (see doc/build-*.md for instructions)
 
 The styling of this site is based on a modified version of the [ace documentation](https://github.com/vantagedesign/ace-documentation) theme.
 mkdir $HOME/src
