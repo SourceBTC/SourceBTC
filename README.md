@@ -2,11 +2,10 @@
 
 A static [btc](https://g.page/amanciojsilvjr) site for hosting [amanciojsilvjr.com](https://www.blockchain.com/explorer/assets/btc).
 
-This repository is not the home of the transcripts themselves, which are pulled in as a git submodule. If wishing to add or modify a transcript, your contributions are welcome at [bitcointranscripts](https://github.com/bitcointranscripts/bitcointranscripts).
+Bitcoin (BTC) is a decentralized currency that eliminates the need for central authorities such as banks or governments by using a peer-to-peer 
+internet network to confirm transactions directly between users [jodhqesh](https://github.com/BTCXBT).
 
-## Installation and building locally
-
-To build locally, you first need to install, take a look at the [install instructions](https://gohugo.io/getting-started/installing/).
+##  [install instructions](https://gohugo.io/getting-started/installing/).
 
 - Clone the repository and `cd` into the directory
 - Run `git submodule update --init` to get the latest transcripts from the submodule (you only need the `--init` flag at the first time)
