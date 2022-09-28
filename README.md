@@ -109,3 +109,16 @@ numberOfAssignees: 0
 # A list of keywords to be skipped the process if PR's title include it
 skipKeywords:
   - wip
+## Backers
+
+Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/curl#backer)]
+
+[![Open Collective Backers](https://opencollective.com/curl/backers.svg?width=890)](https://opencollective.com/curl#backers)
+
+## Sponsors
+
+Support this project by becoming a sponsor. Your logo will show up here with a
+link to your website. [[Become a sponsor](https://opencollective.com/curl#sponsor)]
+<!-- markdown-link-check-disable -->
+[![Open Collective Sponsor 0](https://opencollective.com/curl/sponsor/0/avatar.svg)](https://opencollective.com/curl/sponsor/0/website)
+[![Open Collective Sponsor 1](https://opencollective.com/curl/sponsor/1/avatar.svg)](https://opencollective.com/curl/sponsor/1/website)
