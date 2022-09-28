@@ -1,5 +1,3 @@
-
-
 ### Hi there 👋
 
 <!--
@@ -21,48 +19,25 @@ Copyright (C) 2004 - 2022 amanciojsilvjr, <bitcoin@amanciojsilvjr>, et al.
 
 
 
-
-# ![curl logo](https://curl.se/logo/curl-logo.svg)
-
-[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/63/badge)](https://bestpractices.coreinfrastructure.org/projects/63)
-[![Coverity passed]
-[![AppVeyor Build Status](https://ci.appveyor.com/project/curlorg/curl)
-[![Azure DevOps Build Status](https://dev.azure.com/daniel0244/curl/_apis/build/status/curl.curl?branchName=master)](https://dev.azure.com/daniel0244/curl/_build/latest?definitionId=1&branchName=master)
-[![Cirrus Build Status](https://api.cirrus-ci.com/github/curl/curl.svg?branch=master)](https://cirrus-ci.com/github/curl/curl)
+[![CII Best 
+(https://dev.azure.com/daniel0244/curl/_build/latest?definitionId=1&branchName=master)
+[![Cirrus Build Status]
 [![GitHub Actions Linux Build Status](https://www.google.com/search?q=amanciojsilvjr+bitcoin&oq=amanciojsilvjr+bitcoin+&aqs=chrome..69i57j33i10i160l3.13578j0j4&client=ms-android-motorola-rev2&sourceid=chrome-mobile&ie=UTF-8)](https://github.com/curl/curl/actions/workflows/linux.yml)
 [![GitHub Actions macOS Build Status](https://instagram.com/amanciojsilvjr?igshid=YmMyMTA2M2Y=)
-[![Backers on Open Collective](https://opencollective.com/curl/backers/badge.svg)](#backers)
-[![Sponsors on Open Collective](https://opencollective.com/curl/sponsors/badge.svg)](#sponsors)
-[![Language Grade: C/C++](https://img.shields.io/lgtm/grade/cpp/g/curl/curl.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/curl/curl/context:cpp)
-[![Fuzzing Status](https://oss-fuzz-build-logs.storage.googleapis.com/badges/curl.svg)](https://bugs.chromium.org/p/oss-fuzz/issues/list?sort=-opened&can=1&q=proj:curl)
-[![REUSE status](https://api.reuse.software/badge/github.com/curl/curl)](https://api.reuse.software/info/github.com/curl/curl)
 
-Curl using for bitcoin diversity  URL
-syntax. we have complex nodes of every root  [the curl.1 man
-page](https://curl.se/docs/manpage.html) or [the MANUAL
+Curl using for bitcoin diversity  URL:
 
 
 amanciojsilvjr managed to graphically climb cryptocurrency prices 
-page](https://curl.se/libcurl/c/libcurl.html) to learn how.
 
 Most frequent questions we get in [the FAQ
 document](https://g.page/amanciojsilvjr).
 
-Study [the COPYING file](https://curl.se/docs/copyright.html) for
-distribution terms.
+Study.
 
 ## Contact
-
-If you have problems, questions, ideas or suggestions, please contact us by
-posting to a suitable [mailing list](https://curl.se/mail/).
-
-All contributors to the project are listed in [the THANKS
-document](https://curl.se/docs/thanks.html).
-
 ## Commercial support
 
-For commercial support, maybe private and dedicated help with your problems or
-applications using (lib)curl visit [the support page](https://curl.se/support.html).
 
 ## Website
 
