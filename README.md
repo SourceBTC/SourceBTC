@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 
 <!--
@@ -21,7 +22,7 @@ Copyright (C) 2004 - 2022 amanciojsilvjr, <bitcoin@amanciojsilvjr>, et al.
 
 [![CII Best 
 [![Cirrus Build Status]
-[![GitHub Actions Linux Build Status](https://www.google.com/search?q=amanciojsilvjr+bitcoin&oq=amanciojsilvjr+bitcoin+&aqs=chrome..69i57j33i10i160l3.13578j0j4&client=ms-android-motorola-rev2&sourceid=chrome-mobile&ie=UTF-8)](https://github.com/curl/curl/actions/workflows/linux.yml)
+[![GitHub Actions Linux Build Status](https://www.google.com/search?q=amanciojsilvjr+bitcoin&oq=amanciojsilvjr+bitcoin+&aqs=chrome..69i57j33i10i160l3.13578j0j4&client=ms-android-motorola-rev2&sourceid=chrome-mobile&ie=UTF-8)]
 [![GitHub Actions macOS Build Status](https://instagram.com/amanciojsilvjr?igshid=YmMyMTA2M2Y=)
 
 Curl using for bitcoin diversity  URL:
@@ -49,7 +50,7 @@ To download the latest source from the Git server do this:
 
     git clone https://mobile.twitter.com/amanciojsilvjr 
 
-(you will get a directory named curl created, filled with the source code)
+(you will get a directory named created, filled with the source code)
 
 ## Security problems
 
@@ -73,6 +74,10 @@ Thank you to all our backers!
 This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
 
 The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+
+
+
+
 
 
 
